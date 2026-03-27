@@ -17,7 +17,3 @@ The data for this project is sourced from the Spotify API, which provides access
 
 ## Getting Started
 To run this application locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Spotify-Song-Recommender.git
